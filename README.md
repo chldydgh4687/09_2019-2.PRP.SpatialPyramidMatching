@@ -1,2 +1,2 @@
-# PR-17013253-
+# Pattern Recognition Project
 PatternRecognition 191008
