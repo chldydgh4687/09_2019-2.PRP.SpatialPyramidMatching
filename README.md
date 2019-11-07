@@ -20,14 +20,14 @@ uploading..
 
 ## Branch
 
-- master
+- master  
 Master branch is Release.ver, Demo version
 
-- Develop
+- Develop  
 Develop branch is developing codition, literally. 
 other words, revision version. version before merged into master.  
 
-- Hotfix
+- Hotfix  
 when critical bug and error occur in this project, this branch is useful.
 In this case of bug fixed in it, also this branch merged into master.
 
