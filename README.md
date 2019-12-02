@@ -1,8 +1,7 @@
-# Develop 
-PatternRecognition 191008 ~
-
+# Develop branch
+---
 # Subscription
-
+---
 ## ~20191201
 - HOG + SPM + SVC = 0.49
 
@@ -11,12 +10,12 @@ PatternRecognition 191008 ~
 
 - try ~ 10 I changed kernel. results are
 
-poly : 0.48522
-sigmoid : 0.08687
-precomputed : not fit
-linear : 0.50709
-rbf : 0.50059
-
+poly : 0.48522  
+sigmoid : 0.08687  
+precomputed : not fit  
+linear : 0.50709  
+rbf : 0.50059  
+  
 ## 20191203
 
 - improved spm trying...
