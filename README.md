@@ -3,7 +3,11 @@
 # Subscription
 ---
 ## ~20191201
-- HOG + SPM + SVC = 0.49
+- ~~HOG + SPM = 0.33~~
+- ~~HOG + SPM + SVC = 0.49~~
+
+- HOG + LinearSVC = 0.33
+- HOG + SPM + LinearSVC = 0.49
 
 ## 20191202
 - **GridSearch Optimalization( to find best parameter ) = 0.5 (0.5 release)**
