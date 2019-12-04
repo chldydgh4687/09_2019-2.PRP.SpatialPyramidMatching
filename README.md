@@ -18,4 +18,14 @@ rbf : 0.50059
   
 ## 20191203
 
-- improved spm trying...
+- By using gaussian filter, accuracy down. and I dump out it.
+
+## 20191204
+
+- I inspect kernel problem. I used linear kernel.
+- so, I clean up code again.
+- (0_depth) 0.33 >> 0.419 
+
+## 20191205
+
+- adding...
