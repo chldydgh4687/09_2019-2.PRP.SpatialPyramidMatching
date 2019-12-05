@@ -32,5 +32,5 @@ rbf : 0.50059
 
 ## 20191205
 
-- HOG + SPM + SVC(SPM kernel) = 0.52_release
+- **HOG + SPM + SVC(SPM kernel) = 0.52_release**
 - not PCA, LDA
