@@ -32,4 +32,4 @@ rbf : 0.50059
 
 ## 20191205
 
-- adding...
+- I'm trying to insert PCA and GridSearchCV.
