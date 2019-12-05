@@ -32,4 +32,5 @@ rbf : 0.50059
 
 ## 20191205
 
-- I'm trying to insert PCA and GridSearchCV.
+- HOG + SPM + SVC(SPM kernel) = 0.52_release
+- not PCA, LDA
