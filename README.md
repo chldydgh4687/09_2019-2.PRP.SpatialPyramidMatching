@@ -34,3 +34,7 @@ rbf : 0.50059
 
 - **HOG + SPM + SVC(SPM kernel) = 0.52_release**
 - not PCA, LDA
+
+## 20191207
+
+- **Feature_Step_size == SPM step_size = 8 = 0.53_release**
