@@ -1,40 +1,33 @@
-# Develop branch
----
-# Subscription
----
-## ~20191201
-- ~~HOG + SPM = 0.33~~
-- ~~HOG + SPM + SVC = 0.49~~
 
-- HOG + LinearSVC = 0.33
-- HOG + SPM + LinearSVC = 0.49
+# Pattern Recognition Project
+PatternRecognition 191008 ~  
 
-## 20191202
-- **GridSearch Optimalization( to find best parameter ) = 0.5 (0.5 release)**
+# Subscription  
 
-- try ~ 10 I changed kernel. results are
+## Reference  
+This Project is based on "Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories"-_CVPR 2006_-	
+and about class assignment in Pattern Recognition, School of Intelligent Mechatronics Engineering Sejong University.  	
 
-poly : 0.48522  
-sigmoid : 0.08687  
-precomputed : not fit  
-linear : 0.50709  
-rbf : 0.50059  
+## Project Abstract	
+It is administered by gitkraken.  	
+I know that how to use gitbash command. but invention spped is accelerated by new tools. This tool are very powerful in seeing the comment,branch, and error of your team. So, I will study Gitkraken and upload manual for classmates. This tool maybe easily create and delete branch and administer your team, faster than gitbash.	
+
+reference papers.pdf is in the study folder.  	
+Except for it, other things are related Project.  	
+
+uploading..
+
+# Git  
+
+
+## Branch  
+- master  
+Master branch is Release.ver, Demo version  
   
-## 20191203
-
-- By using gaussian filter, accuracy down. and I dump out it.
-
-## 20191204
-
-- I inspect kernel problem. I used linear kernel.
-- so, I clean up code again.
-- (0_depth) 0.33 >> 0.419 
-
-## 20191205
-
-- **HOG + SPM + SVC(SPM kernel) = 0.52_release**
-- not PCA, LDA
-
-## 20191207
-
-- **Feature_Step_size == SPM step_size = 8 = 0.53_release**
+- Develop   	
+Develop branch is developing codition, literally. 	
+other words, revision version. version before merged into master.  	
+  
+- Hotfix    	
+when critical bug and error occur in this project, this branch is useful.	
+In this case of bug fixed in it, also this branch merged into master.
