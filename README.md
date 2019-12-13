@@ -1,8 +1,6 @@
 
-# Pattern Recognition Project 0.527
-PatternRecognition 191008 ~
+# Hotfix
 
-# 0.527 _release
-- HOG + SPM + SVC(SPM kernel) = 0.52777
-- not LDA, PCA
-- not scaler
+### This branch is fixing space. Copies in others branch files are in here.  
+### If others branch have code problem(bug), I fix it in here and pull request on branch. 
+
