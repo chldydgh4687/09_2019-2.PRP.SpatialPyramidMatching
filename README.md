@@ -23,7 +23,6 @@ Except for it, other things are related Project.
 
 # Last Submit : xx.ver
 
-- 어쩌구 저쩌구
 
 </br>
 
