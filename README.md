@@ -9,7 +9,7 @@ PatternRecognition 191008 ~ 191214
 ---
 
 ## Reference  
-This Project is based on "Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories"-_CVPR 2006_-	
+This Project is based on ["Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories"](http://vision.stanford.edu/teaching/cs231b_spring1213/papers/CVPR06_LazebnikSchmidPonce.pdf)-_CVPR 2006_-	
 and about class assignment in Pattern Recognition, School of Intelligent Mechatronics Engineering Sejong University.  	
 
 ## Project Abstract	
