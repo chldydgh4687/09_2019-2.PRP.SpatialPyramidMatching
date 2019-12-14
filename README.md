@@ -21,8 +21,14 @@ Except for it, other things are related Project.
 
 </br>
 
-# Last Submit : xx.ver
+# Last Submit : 0.61 ver
 
+- LINK : [https://github.com/chldydgh4687/PRproject/tree/0.61_](https://github.com/chldydgh4687/PRproject/tree/0.61_)
+</br>
+
+- 0.59 (spm.ver) >> 0.61
+- 2_depth(SPM) + HOG + SPM(kernel)
+- codebook 200 >> 800 조정
 
 </br>
 
@@ -47,7 +53,10 @@ when critical bug and error occur in this project, this branch is useful.
 In this case of bug fixed in it, also this branch merged into master.
 
 ## Release / Tags
+</br>
 
+- 0.61
+- 0.59
 - 0.57
 - 0.52(spm_base)
 - 0.50(not_spm_kernel)
