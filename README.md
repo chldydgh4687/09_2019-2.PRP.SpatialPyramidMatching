@@ -42,3 +42,8 @@ rbf : 0.50059
 ## 20191213
 
 - **SPM메커니즘에 들어가는 데이터를 (images >> feature)  로 교체 = 0.57_release**
+
+## 20191214
+
+- **StandardScaler 적용 (+0.02) - 0.59 release**
+- **RobustScaler 적용 (+0.00)**
