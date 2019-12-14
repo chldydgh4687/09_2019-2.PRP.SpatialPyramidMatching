@@ -46,4 +46,6 @@ rbf : 0.50059
 ## 20191214
 
 - **StandardScaler 적용 (+0.02) - 0.59 release**
-- **RobustScaler 적용 (+0.00)**
+- RobustScaler 적용 (+0.00)
+
+- **codebook size 변경 (+0.02) - 0.61 release**
