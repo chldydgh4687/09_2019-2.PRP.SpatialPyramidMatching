@@ -5,14 +5,14 @@ PatternRecognition 191008 ~ 191214
 
 <br/>
 
-# 0.57_release
+# 0.59_release
 
 <br/>
 
-- 0.52 (spm.ver) >> 0.57
+- 0.57 (spm.ver) >> 0.59
 - 2_depth(SPM) + HOG + SPM(kernel)
-- histogram에 들어가는 그림데이터를 feature 데이터로 수정.
-- 처음 feature step_size 와 spm step_size 동일하게 맞춤.
+- StandardScaler(feature) + Histogram 적용 (+0.02)
+- RobustScaler는 변화가 없음.
 
 <br/>
 
@@ -20,7 +20,7 @@ PatternRecognition 191008 ~ 191214
 
 <br/>
 
-- background : O (0.58), X (0.57)
+- background : O (0.59)
 
 - step_size = 8 , SPM_step_size = 8 
 - img_size = 256  
@@ -29,9 +29,10 @@ PatternRecognition 191008 ~ 191214
 - codebook : 200  
   
 - spm depth : 2  
-  
+- scaler : StandardScaler()
+
 - kernel : 'precomputed' = spm_kernel  
 - svm : svc
 
-- GridSearch_best_parameter : {'C': 0.005, 'gamma': 1e-06}
+- GridSearch_best_parameter : {'C': 0.005, 'gamma': 1e-07}
 ---
