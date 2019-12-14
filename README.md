@@ -64,4 +64,10 @@ In this case of bug fixed in it, also this branch merged into master.
 
 ---  
 
-# Reference
+## Reference
+</br>
+
+[TrungTVo/spatial-pyramid-matching-scene-recognition](https://github.com/TrungTVo/spatial-pyramid-matching-scene-recognition)  
+
+[kaggle_discussion](https://www.kaggle.com/c/2019-ml-finalproject/discussionn)
+
