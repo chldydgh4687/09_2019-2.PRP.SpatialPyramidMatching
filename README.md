@@ -20,7 +20,8 @@ PatternRecognition 191008 ~ 191214
 
 <br/>
 
-- background : X
+- background : O (0.565)
+- background : X (0.57)
 
 - step_size = 8 , SPM_step_size = 8 
 - img_size = 256  
