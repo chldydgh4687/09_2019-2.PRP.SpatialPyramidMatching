@@ -1,6 +1,6 @@
 
 
-# <span style="background-color: #FFFF00">Pattern Recognition Project</span>
+# Pattern Recognition Project
 PatternRecognition 191008 ~ 191214
 
 </br>
@@ -21,13 +21,13 @@ Except for it, other things are related Project.
 
 </br>
 
-# <span style="background-color: #FFFF00">Last Submit : xx.ver</span>
+# Last Submit : xx.ver
 
 - 어쩌구 저쩌구
 
 </br>
 
-# <span style="background-color: #FFFF00">Git Managing</span>
+# Git Managing
 ---
 ## Branch  
 - master  
