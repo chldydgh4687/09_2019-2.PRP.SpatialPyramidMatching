@@ -5,16 +5,12 @@ PatternRecognition 191008 ~ 191214
 
 <br/>
 
-### **This release is not useful, because original version have some problem like wrong kernel**
+# 0.52_release
 
 <br/>
 
-# 0.5_release
-
-<br/>
-
-- 0.33 >> 0.5 (adding SPM.ver before origin 0_depth reconstruction )
-- 2_depth(SPM) + HOG + not SPM(kernel)
+- 0.41 (0_depth) >> 0.52 (adding SPM.ver)
+- 2_depth(SPM) + HOG + SPM(kernel)
 
 <br/>
 
@@ -33,5 +29,5 @@ PatternRecognition 191008 ~ 191214
 - kernel : 'precomputed' = spm_kernel  
 - svm : svc
 
-- GridSearch_best_parameter : {'svc__C': 1, 'svc__gamma': 0.005}
+- GridSearch_best_parameter : {'C': 0.005, 'gamma': 1e-05}
 ---
