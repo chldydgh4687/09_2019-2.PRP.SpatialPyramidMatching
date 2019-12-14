@@ -38,3 +38,7 @@ rbf : 0.50059
 ## 20191207
 
 - **Feature_Step_size == SPM step_size = 8 = 0.53_release**
+
+## 20191213
+
+- **SPM메커니즘에 들어가는 데이터를 (images >> feature)  로 교체 = 0.57_release**
