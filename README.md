@@ -11,10 +11,16 @@ PatternRecognition 191008 ~ 191214
 
 # 0.5_release
 
+<br/>
+
 - 0.33 >> 0.5 (adding SPM.ver before origin 0_depth reconstruction )
 - 2_depth(SPM) + HOG + not SPM(kernel)
 
+<br/>
+
 ## PARAMETER
+
+<br/>
 
 - step_size = 16 , SPM_step_size = 8 
 - img_size = 256  
