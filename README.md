@@ -1,8 +1,11 @@
 
 # Pattern Recognition Project
-PatternRecognition 191008 ~  
+PatternRecognition 191008 ~ 191214
+
+</br>
 
 # Subscription  
+---
 
 ## Reference  
 This Project is based on "Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories"-_CVPR 2006_-	
@@ -15,12 +18,16 @@ I know that how to use gitbash command. but invention spped is accelerated by ne
 reference papers.pdf is in the study folder.  	
 Except for it, other things are related Project.  	
 
+</br>
+
 # Last Submit : xx.ver
 
 - 어쩌구 저쩌구
 
-# Git  
+</br>
 
+# Git Managing
+---
 ## Branch  
 - master  
 Master branch is Last Release.ver, Final version  
