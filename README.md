@@ -5,14 +5,13 @@ PatternRecognition 191008 ~ 191214
 
 <br/>
 
-# 0.59_release
+# 0.61_release
 
 <br/>
 
-- 0.57 (spm.ver) >> 0.59
+- 0.59 (spm.ver) >> 0.61
 - 2_depth(SPM) + HOG + SPM(kernel)
-- StandardScaler(feature) + Histogram 적용 (+0.02)
-- RobustScaler는 변화가 없음.
+- codebook 200 >> 800 조정
 
 <br/>
 
@@ -20,13 +19,13 @@ PatternRecognition 191008 ~ 191214
 
 <br/>
 
-- background : O (0.59)
+- background : O (0.61)
 
 - step_size = 8 , SPM_step_size = 8 
 - img_size = 256  
   
 - kmeans : minibatchkmeans  
-- codebook : 200  
+- codebook : 800
   
 - spm depth : 2  
 - scaler : StandardScaler()
