@@ -55,9 +55,9 @@ In this case of bug fixed in it, also this branch merged into master.
 ## Release / Tags
 </br>
 
-- 0.61
-- 0.59
-- 0.57
+- 0.61(Final.ver)
+- 0.59(spm_feature + scaler)
+- 0.57(spm_image)
 - 0.52(spm_base)
 - 0.50(not_spm_kernel)
 - 0.41(0_depth_spm)
