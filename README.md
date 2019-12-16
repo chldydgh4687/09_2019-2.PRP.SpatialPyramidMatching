@@ -3,10 +3,11 @@
 # Pattern Recognition Project
 PatternRecognition 191008 ~ 191214
 
+---
 </br>
 
 # Subscription  
----
+
 
 ## Reference  
 This Project is based on ["Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories"](http://vision.stanford.edu/teaching/cs231b_spring1213/papers/CVPR06_LazebnikSchmidPonce.pdf)-_CVPR 2006_-	
@@ -33,6 +34,7 @@ Except for it, other things are related Project.
 
 </br>
 
+---
 # Last Submit : 0.61 ver
 
 - LINK : [https://github.com/chldydgh4687/PRproject/tree/0.61_](https://github.com/chldydgh4687/PRproject/tree/0.61_)
@@ -42,10 +44,12 @@ Except for it, other things are related Project.
 - 2_depth(SPM) + HOG + SPM(kernel)
 - codebook 200 >> 800 조정
 
+
+---  
 </br>
 
 # Git Managing
----
+
 ## Branch  
 - master  
 Master branch is Last Release.ver, Final version  
